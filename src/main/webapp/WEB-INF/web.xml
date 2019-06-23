@@ -1,0 +1,6 @@
+<web-app>
+    <context-param>
+        <param-name>numbersolutions</param-name>
+        <param-value>5</param-value>
+    </context-param>
+</web-app>

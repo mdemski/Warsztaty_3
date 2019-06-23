@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5631474f-0e1f-471b-974c-0885b011fcf4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jee_school_war.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/jee_school_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mindrot_jbcrypt_0_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliLang.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_windows/laf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_windows/laf.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_windows/path.macros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseRefactoring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/customPostfixTemplates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ide-features-trainer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intentionSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jee-school.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jeeschool.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameter.hints.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/print.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projectView.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/jeeschool.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletAdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletAdminPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditExercises.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletEditUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletGroupMembers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletGroupMembers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletHp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletHp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletUserInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/controller/ServletUserInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/ExerciseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/ExerciseApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/GroupApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/GroupApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/SolutionApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/SolutionApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/UserApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/codreslab/model/app/UserApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/exercise/Exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/exercise/ExerciseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/group/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/group/GroupDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/solution/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/solution/SolutionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/codreslab/model/user/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletAdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletAdminPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletDetails.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletDetails.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditExercises.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditExercises.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditUsers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletEditUsers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletGroupMembers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletGroupMembers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletGroups.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletGroups.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletHp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletHp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletUserInformation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/controller/ServletUserInformation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/ExerciseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/ExerciseApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/GroupApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/GroupApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/SolutionApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/SolutionApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/UserApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/app/UserApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/exercise/Exercise.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/exercise/ExerciseDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/group/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/group/GroupDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/solution/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/solution/SolutionDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/user/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/classes/pl/codreslab/model/user/UserDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/panel.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/jee-school-1.0-SNAPSHOT/WEB-INF/panel.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toStringTemplates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/codreslab/controller/ServletAdminPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pl/codreslab/controller/ServletAdminPanel.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="927" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Warsztaty_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="codreslab" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Warsztaty_3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pl" type="462c0819:PsiDirectoryNode" />
+              <item name="codreslab" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5631474f-0e1f-471b-974c-0885b011fcf4" name="Default Changelist" comment="" />
+      <created>1561299156780</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561299156780</updated>
+      <workItem from="1561299159660" duration="460000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1561299232203</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561299232204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="460000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/codreslab/controller/ServletAdminPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
