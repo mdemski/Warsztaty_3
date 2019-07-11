@@ -27,7 +27,7 @@ public class SolutionDao {
             statement.setString(1, solution.getCreated());
             statement.setString(2, solution.getUpdated());
             statement.setString(3, solution.getDescription());
-            statement.setDouble(4,solution.getRating());
+            statement.setDouble(4, solution.getRating());
             statement.executeUpdate();
             ResultSet resultSet = statement.getGeneratedKeys();
             if (resultSet.next()) {
@@ -69,7 +69,7 @@ public class SolutionDao {
             statement.setString(2, solution.getUpdated());
             statement.setString(3, solution.getDescription());
             statement.setInt(4, solution.getId());
-            statement.setDouble(5,solution.getRating());
+            statement.setDouble(5, solution.getRating());
             statement.executeUpdate();
         } catch (SQLException e) {
             System.out.println("Nie można uaktualnić rozwiązania o id: " + solution.getId());
@@ -112,7 +112,7 @@ public class SolutionDao {
     public List<Solution> findRecent(Integer number) {
         try (Connection conn = DbUtil.getConnection()) {
             PreparedStatement statement = conn.prepareStatement(FIND_RECENT_SOLUTIONS_QUERY);
-            statement.setInt(1,number);
+            statement.setInt(1, number);
             ResultSet resultSet = statement.executeQuery();
             List<Solution> solutions = new ArrayList<>();
             while (resultSet.next()) {

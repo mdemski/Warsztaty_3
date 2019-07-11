@@ -20,8 +20,8 @@ public class ServletDetails extends HttpServlet {
         SolutionDao solutionDao = new SolutionDao();
         Integer solutionId = Integer.parseInt(request.getParameter("solId"));
         Solution solution = solutionDao.read(solutionId);
-        request.setAttribute("solution",solution);
+        request.setAttribute("solution", solution);
         System.out.println(solution);
-        getServletContext().getRequestDispatcher("/WEB-INF/details.jsp").forward(request,response);
+        getServletContext().getRequestDispatcher("/WEB-INF/details.jsp").forward(request, response);
     }
 }

@@ -20,7 +20,7 @@ public class ServletGroups extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         GroupDao groupDao = new GroupDao();
         List<Group> groups = groupDao.allGroups();
-        request.setAttribute("groups",groups);
-        getServletContext().getRequestDispatcher("/WEB-INF/groups.jsp").forward(request,response);
+        request.setAttribute("groups", groups);
+        getServletContext().getRequestDispatcher("/WEB-INF/groups.jsp").forward(request, response);
     }
 }

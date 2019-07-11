@@ -18,7 +18,7 @@ public class ServletEditGroups extends HttpServlet {
         String name = request.getParameter("name");
         Integer id = Integer.parseInt(request.getParameter("id"));
         Group addGroup = new Group(name);
-        Group editGroup = new Group(id,name);
+        Group editGroup = new Group(id, name);
         switch (option) {
             case "add":
                 groupDao.create(addGroup);

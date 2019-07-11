@@ -21,8 +21,8 @@ public class ServletEditUsers extends HttpServlet {
         String email = request.getParameter("email");
         String password = request.getParameter("password");
 
-        User addUser = new User(username,email,password, userGroupId);
-        User editUser = new User(id,username,email,password,userGroupId);
+        User addUser = new User(username, email, password, userGroupId);
+        User editUser = new User(id, username, email, password, userGroupId);
         switch (option) {
             case "add":
                 userDao.create(addUser);

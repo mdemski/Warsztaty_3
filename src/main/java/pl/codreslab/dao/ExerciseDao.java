@@ -1,7 +1,6 @@
 package pl.codreslab.dao;
 
 
-
 import pl.codreslab.db.DbUtil;
 import pl.codreslab.model.Exercise;
 import pl.codreslab.model.Solution;
@@ -114,9 +113,9 @@ public class ExerciseDao {
                 int solutionId = resultSet.getInt("solution.id");
                 String solutionDescription = resultSet.getString("solution.description");
                 int userId = resultSet.getInt("users_id");
-                Solution solution = new Solution(solutionId, solutionDescription,userId);
+                Solution solution = new Solution(solutionId, solutionDescription, userId);
                 Exercise exercise = new Exercise(id, title, description);
-                exerciseList.put(exercise,solution);
+                exerciseList.put(exercise, solution);
             }
             return exerciseList;
         } catch (SQLException e) {

@@ -22,8 +22,8 @@ public class ServletUserInformation extends HttpServlet {
         Solution solution = new Solution();
         Integer userId = Integer.parseInt(request.getParameter("userId"));
         List<Solution> solutionList = solution.findAllByUserId(userId);
-        request.setAttribute("user",userDao.read(userId));
+        request.setAttribute("user", userDao.read(userId));
         request.setAttribute("usersSolutions", solutionList);
-        getServletContext().getRequestDispatcher("/WEB-INF/user.jsp").forward(request,response);
+        getServletContext().getRequestDispatcher("/WEB-INF/user.jsp").forward(request, response);
     }
 }

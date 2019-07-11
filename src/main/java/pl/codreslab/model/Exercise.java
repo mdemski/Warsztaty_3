@@ -70,7 +70,8 @@ public class Exercise {
             }
             return exercises;
         } catch (SQLException e) {
-            System.out.println("Nie znaleziono zadań bez rozwiązań");;
+            System.out.println("Nie znaleziono zadań bez rozwiązań");
+            ;
         }
         return null;
     }

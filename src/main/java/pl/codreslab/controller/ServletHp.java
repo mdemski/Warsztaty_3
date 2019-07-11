@@ -21,8 +21,8 @@ public class ServletHp extends HttpServlet {
         SolutionDao solutionDao = new SolutionDao();
         Integer number = Integer.parseInt(getContextParameter("numbersolutions"));
         List<Solution> solutions = solutionDao.findRecent(number);
-        request.setAttribute("solutions",solutions);
-        getServletContext().getRequestDispatcher("/WEB-INF/index.jsp").forward(request,response);
+        request.setAttribute("solutions", solutions);
+        getServletContext().getRequestDispatcher("/WEB-INF/index.jsp").forward(request, response);
     }
 
     protected String getContextParameter(String name) {

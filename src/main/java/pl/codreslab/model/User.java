@@ -14,6 +14,7 @@ public class User {
     public static void main(String[] args) {
         findAllByGroupId(2);
     }
+
     private int id;
     private String userName;
     private String email;
