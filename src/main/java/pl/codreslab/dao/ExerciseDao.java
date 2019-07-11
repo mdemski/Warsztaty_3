@@ -1,6 +1,5 @@
 package pl.codreslab.dao;
 
-
 import pl.codreslab.db.DbUtil;
 import pl.codreslab.model.Exercise;
 import pl.codreslab.model.Solution;
